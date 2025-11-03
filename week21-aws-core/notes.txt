@@ -1,0 +1,1 @@
+AWS core—EC2, IAM basics, CLI usage, S3 buckets

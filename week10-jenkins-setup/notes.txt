@@ -1,0 +1,1 @@
+Jenkins install/setup करें, basic job बनाएं (build + test)

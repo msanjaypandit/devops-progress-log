@@ -1,0 +1,1 @@
+File, process management (ps, grep, top, chmod), shell scripts

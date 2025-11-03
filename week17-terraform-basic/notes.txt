@@ -1,0 +1,1 @@
+Terraform basics—AWS EC2 provisioning demo, local test scripts

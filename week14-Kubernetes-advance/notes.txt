@@ -1,0 +1,1 @@
+Deploy existing Dockerized app to k8s, basic manifest लिखें
